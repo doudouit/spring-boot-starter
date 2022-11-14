@@ -14,8 +14,13 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-  <dependencies>
+    <dependencies>
 
-  </dependencies>
+    </dependencies>
 
+    <modules>
+        <module>id-generate-spring-boot-starter</module>
+        <module>id-generate-spring-boot-autoconfigure</module>
+        <module>id-generate-test</module>
+    </modules>
 </project>

@@ -20,8 +20,9 @@
     </dependencies>
 
     <modules>
-        <module>id-generate-spring-boot-starter</module>
+        <!--<module>id-generate-spring-boot-starter</module>
         <module>id-generate-spring-boot-autoconfigure</module>
-        <module>id-generate-test</module>
+        <module>id-generate-test</module>-->
+        <module>id-generater</module>
     </modules>
 </project>
